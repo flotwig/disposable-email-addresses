@@ -559,7 +559,6 @@ mailnesia.*
 mailnesia.com
 mailnull.com
 mailquack.com
-mail.ru
 mailscrap.com
 mail.sequentialx.com
 mailshell.com
