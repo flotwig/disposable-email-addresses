@@ -512,6 +512,7 @@ mail4u.info
 mail.bentrask.com
 mailbidon.com
 mailblocks.com
+mailbox.zip
 mailbucket.org
 mail.by
 mailcatch.*
@@ -746,6 +747,7 @@ safetymail.com
 safetymail.info
 safetypost.de
 sags-per-mail.de
+sailmail.io
 sandelf.de
 satka.net
 saynotospams.com
