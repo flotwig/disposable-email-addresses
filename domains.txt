@@ -10,17 +10,13 @@
 10minutemail.com
 10minutemail.de
 123-m.com
-126.com
 12hourmail.com
 12minutemail.com
-139.com
-163.com
 1ce.us
 1chuan.com
 1pad.de
 1zhuan.com
 20minutemail.com
-21cn.com
 24hourmail.com
 2prong.com
 30minutemail.com
@@ -1046,7 +1042,6 @@ xoxy.net
 xsecurity.org
 xxtreamcam.com
 xyzfree.net
-yeah.net
 yep.it
 yesey.net
 yogamaven.com
@@ -1071,3 +1066,4 @@ zoemail.net
 zoemail.org
 zomg.info
 zweb.in
+
